@@ -326,7 +326,7 @@ class TextToSpeech:
 
 
         self.clvp = CLVP(dim_text=768, dim_speech=768, dim_latent=768, num_text_tokens=256, text_enc_depth=20,
-                         text_seq_len=350, text_heads=12,
+                         text_seq_len=360, text_heads=12,
                          num_speech_tokens=8192, speech_enc_depth=20, speech_heads=12, speech_seq_len=430,
                          use_xformers=True).cpu().eval()
         self.clvp.load_state_dict(torch.load(get_model_path('clvp2.pth', models_dir)))
