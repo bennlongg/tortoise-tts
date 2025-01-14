@@ -256,9 +256,13 @@ for voice_idx, voice in enumerate(selected_voices):
         filename = args.output if args.output else os.tmp
         torchaudio.save(args.output, audio, 24000)
     elif args.play:
-        f = tempfile.NamedTemporaryFile(suffix='.wav', delete=True)
-        torchaudio.save(f.name, audio, 24000)
-        pydub.playback.play(pydub.AudioSegment.from_wav(f.name))
+        f = tempfile.NamedTemporaryFile(suffix='.wav', delete=False)
+        try:
+            torchaudio.save(f.name, audio, 24000)
+            pydub.playback.play(pydub.AudioSegment.from_wav(f.name))
+        finally:
+            f.close()
+            os.remove(f.name)
 
     if args.produce_debug_state:
         os.makedirs('debug_states', exist_ok=True)
