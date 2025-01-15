@@ -10,3 +10,5 @@ Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-clo
 
 Why did the scarecrow become a successful voice actor? Because he was outstanding in his field!
 
+Why did the computer go to therapy? It had too many bytes of unresolved issues!
+
