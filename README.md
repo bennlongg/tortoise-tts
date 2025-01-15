@@ -8,5 +8,5 @@ Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-clo
 
 ---
 
-Why can't a bicycle stand on its own? Because it's two-tired!
+Why did the scarecrow win an award? Because he was outstanding in his field!
 
