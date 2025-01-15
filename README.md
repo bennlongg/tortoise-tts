@@ -1,7 +1,24 @@
-# (QoL improvements for) TorToiSe
+<bof>
+# A Poem for Our Project
 
-This repo is for my modifications to [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts). If you need the original README, refer to the original repo.
+In the realm of code, where logic reigns,
+We craft our dreams, through joys and pains.
+With every line, a story's told,
+Of passion, skill, and hearts so bold.
 
-\> w-where'd everything go?
+From dawn till dusk, we strive to see,
+A world transformed by our decree.
+With every bug we chase away,
+A brighter future we convey.
 
-Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-cloning), as that repo is the more cohesive package for voice cloning.
+In unity, we find our strength,
+Together, we go any length.
+For in this code, our spirits blend,
+A journey shared, until the end.
+
+So let us write with hearts aglow,
+And let our fellowship bestow,
+A legacy of dreams fulfilled,
+In every byte, our love instilled.
+
+<eof>
