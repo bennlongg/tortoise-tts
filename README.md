@@ -10,3 +10,5 @@ Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-clo
 
 Why did the scarecrow win an award? Because he was outstanding in his field!
 
+Why don't scientists trust atoms? Because they make up everything!
+
