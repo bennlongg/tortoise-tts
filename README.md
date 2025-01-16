@@ -6,5 +6,5 @@ This repo is for my modifications to [neonbjb/tortoise-tts](https://github.com/n
 
 Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-cloning), as that repo is the more cohesive package for voice cloning.
 
-Why don't scientists trust atoms? Because they make up everything!
+Why did the scarecrow win an award? Because he was outstanding in his field!
 
