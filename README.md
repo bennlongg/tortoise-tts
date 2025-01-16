@@ -12,3 +12,5 @@ Why did the scarecrow become a successful software engineer? Because he was outs
 
 Why do programmers prefer dark mode? Because light attracts bugs!
 
+Why do Java developers wear glasses? Because they don't C#.
+
