@@ -8,5 +8,5 @@ Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-clo
 
 > Why did the scarecrow become a successful software developer? Because he was outstanding in his field!
 
-> Why did the developer go broke? Because he used up all his cache!
+> Why do programmers prefer dark mode? Because light attracts bugs!
 
