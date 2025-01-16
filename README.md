@@ -10,3 +10,5 @@ Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-clo
 
 Why did the turtle cross the road? To get to the shell station!
 
+What do you call a famous turtle? A shell-ebrity!
+
