@@ -12,3 +12,5 @@ Why did the turtle cross the road? To get to the shell station!
 
 What do you call a famous turtle? A shell-ebrity!
 
+What do you get when you cross a turtle with a giraffe? A turtleneck!
+
