@@ -14,3 +14,5 @@ Why did the musician bring a ladder to the concert? To reach the high notes!
 
 Why was the equal sign so humble? Because it knew it wasn't less than or greater than anyone else!
 
+Γιατί οι μαθηματικοί φορούν γυαλιά; Για να βελτιώσουν την οπτική τους γωνία!
+
