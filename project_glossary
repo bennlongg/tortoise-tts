@@ -16,4 +16,7 @@ A probabilistic model used to iteratively refine outputs, often employed in gene
 ## Vocoder
 A tool that converts spectral representations (like mel spectrograms) into audio waveforms, often used in TTS systems to produce natural-sounding speech from intermediate representations.
 
+## Wav2Vec2
+A pre-trained model for automatic speech recognition (ASR) that converts audio waveforms into text. It can be used for tasks like alignment and transcription in TTS systems.
+
 <eof>
