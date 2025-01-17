@@ -10,3 +10,5 @@ Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-clo
 
 Why did the developer go broke? Because he used up all his cache!
 
+Why are scarecrows so good at their job? Because they're outstanding in their field!
+
