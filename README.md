@@ -10,3 +10,5 @@ Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-clo
 
 Why did the text-to-speech model break up with its partner? Because it couldn't find the right tone!
 
+Why did the musician bring a ladder to the concert? To reach the high notes!
+
