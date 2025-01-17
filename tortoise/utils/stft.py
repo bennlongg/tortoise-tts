@@ -1,4 +1,10 @@
 """
+This module provides an implementation of the Short-Time Fourier Transform (STFT) using PyTorch.
+Adapted from Prem Seetharaman's work, it includes functionality for performing STFT on audio signals,
+which is essential for various audio processing tasks.
+"""
+
+"""
 BSD 3-Clause License
 
 Copyright (c) 2017, Prem Seetharaman

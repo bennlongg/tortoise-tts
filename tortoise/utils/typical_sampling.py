@@ -1,3 +1,9 @@
+"""
+This module defines a class TypicalLogitsWarper that modifies logits during sampling based on typicality criteria.
+It focuses on implementing custom sampling strategies for language models by adjusting logits according to specific rules,
+such as entropy calculations and cumulative probability thresholds.
+"""
+
 import torch
 from transformers import LogitsWarper
 

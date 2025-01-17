@@ -1,3 +1,8 @@
+"""
+This module provides utility functions for handling audio data, including loading audio files, normalizing mel spectrograms,
+and performing dynamic range compression. It also includes functions for managing voice directories and loading voice samples.
+"""
+
 import os
 from glob import glob
 

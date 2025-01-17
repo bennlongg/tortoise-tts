@@ -1,4 +1,10 @@
 """
+This module provides implementations of diffusion models and related utilities.
+It includes classes such as GaussianDiffusion and SpacedDiffusion for handling diffusion processes,
+as well as various mathematical operations needed for these models.
+"""
+
+"""
 This is an almost carbon copy of gaussian_diffusion.py from OpenAI's ImprovedDiffusion repo, which itself:
 
 This code started out as a PyTorch port of Ho et al's diffusion models:
