@@ -16,3 +16,5 @@ Why was the equal sign so humble? Because it knew it wasn't less than or greater
 
 Γιατί οι μαθηματικοί φορούν γυαλιά; Για να βελτιώσουν την οπτική τους γωνία!
 
+¿Por qué los matemáticos odian las fiestas? Porque no les gusta la división.
+
