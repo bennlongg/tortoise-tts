@@ -222,6 +222,10 @@ for option in tuning_options:
         gen_settings[option] = getattr(args, option)
 total_clips = len(texts) * len(selected_voices)
 regenerate_clips = [int(x) for x in args.regenerate.split(',')] if args.regenerate else None
+
+if args.debug:
+    logging.basicConfig(level=logging.DEBUG)
+
 for voice_idx, voice in enumerate(selected_voices):
     audio_parts = []
     voice_samples, conditioning_latents = load_voices(voice, extra_voice_dirs)
