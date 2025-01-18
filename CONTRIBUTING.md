@@ -13,4 +13,8 @@ If you want to contribute code, please [submit a pull request](https://github.co
 
 Please follow the [PEP 8](https://www.python.org/dev/peps/pep-0008/) coding standards.
 
+## Author
+
+Tortoise was created by [neonbjb](https://github.com/neonbjb).
+
 <eof>
