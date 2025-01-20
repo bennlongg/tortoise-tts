@@ -1,3 +1,7 @@
+"""
+This module provides utilities for managing device configurations,
+memory statistics, and garbage collection in PyTorch environments.
+"""
 import torch
 import psutil
 import importlib

@@ -1,3 +1,9 @@
+"""
+This module provides various utilities for handling audio processing tasks,
+including loading audio files, normalizing mel spectrograms, and managing
+voice data directories.
+"""
+
 import os
 from glob import glob
 

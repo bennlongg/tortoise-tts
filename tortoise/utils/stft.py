@@ -1,4 +1,10 @@
 """
+This module provides utilities for performing Short-Time Fourier Transform (STFT)
+operations on audio signals using PyTorch. It includes classes and functions for 
+computing forward and inverse STFTs with customizable windowing techniques.
+"""
+
+"""
 BSD 3-Clause License
 
 Copyright (c) 2017, Prem Seetharaman

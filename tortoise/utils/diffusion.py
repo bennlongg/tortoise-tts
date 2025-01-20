@@ -1,4 +1,12 @@
 """
+This module provides utilities for implementing diffusion models,
+based on OpenAI's ImprovedDiffusion repository. It includes functions
+for computing KL divergence between Gaussians, approximating standard
+normal CDFs, discretized Gaussian log-likelihoods, beta schedules,
+and various classes representing model types and loss types.
+"""
+
+"""
 This is an almost carbon copy of gaussian_diffusion.py from OpenAI's ImprovedDiffusion repo, which itself:
 
 This code started out as a PyTorch port of Ho et al's diffusion models:

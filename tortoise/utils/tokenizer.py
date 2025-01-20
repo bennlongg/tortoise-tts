@@ -1,3 +1,7 @@
+"""
+This module provides utilities for text tokenization using various preprocessing techniques,
+such as abbreviation expansion and number normalization. It also includes classes for 
+handling voice-based tokenization with support for different languages.
 import os
 import re
 import json

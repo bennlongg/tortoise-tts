@@ -1,4 +1,10 @@
 """
+This module handles conditional imports based on environment variables 
+to determine whether certain PyTorch components are overridden by 
+bitsandbytes equivalents.
+"""
+
+"""
 from bitsandbytes.nn import Linear8bitLt as Linear
 from bitsandbytes.nn import StableEmbedding as Embedding
 from bitsandbytes.optim.adam import Adam8bit as Adam
