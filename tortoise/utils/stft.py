@@ -1,3 +1,4 @@
+# Why did the scarecrow become a successful software engineer? Because he was outstanding in his field!
 """
 BSD 3-Clause License
 

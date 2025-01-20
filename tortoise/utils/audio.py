@@ -1,3 +1,4 @@
+# Why did the scarecrow become a successful software engineer? Because he was outstanding in his field!
 import os
 from glob import glob
 

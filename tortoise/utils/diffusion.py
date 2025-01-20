@@ -1,3 +1,4 @@
+# Why did the scarecrow become a successful software engineer? Because he was outstanding in his field!
 """
 This is an almost carbon copy of gaussian_diffusion.py from OpenAI's ImprovedDiffusion repo, which itself:
 

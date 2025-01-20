@@ -1,3 +1,4 @@
+# Why did the scarecrow become a successful software engineer? Because he was outstanding in his field!
 """
 from bitsandbytes.nn import Linear8bitLt as Linear
 from bitsandbytes.nn import StableEmbedding as Embedding
@@ -61,3 +62,5 @@ if OVERRIDE_ADAMW:
 	from bitsandbytes.optim.adamw import AdamW8bit as AdamW
 else:
 	from torch.optim.adamw import AdamW
+
+
