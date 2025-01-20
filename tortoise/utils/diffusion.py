@@ -1,3 +1,5 @@
+# Why did diffusion go broke? Because it couldn't find its concentration gradient!
+
 """
 This is an almost carbon copy of gaussian_diffusion.py from OpenAI's ImprovedDiffusion repo, which itself:
 

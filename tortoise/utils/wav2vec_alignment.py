@@ -1,3 +1,5 @@
+# Why did the audio file go to school? To get aligned with its text!
+
 import re
 
 import torch
