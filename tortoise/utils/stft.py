@@ -1,3 +1,5 @@
+# This module performs Short-Time Fourier Transform (STFT) operations,
+# which are essential for audio signal processing.
 """
 BSD 3-Clause License
 

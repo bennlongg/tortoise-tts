@@ -1,3 +1,8 @@
+# This module serves as an intermediary for integrating different versions 
+# of PyTorch components like linear layers (Linear), embeddings (Embedding),
+# Adam optimizers (Adam), AdamW optimizers (AdamW), allowing flexibility 
+# between using standard PyTorch implementations or optimized versions 
+# from bitsandbytes library based on environment settings.
 """
 from bitsandbytes.nn import Linear8bitLt as Linear
 from bitsandbytes.nn import StableEmbedding as Embedding

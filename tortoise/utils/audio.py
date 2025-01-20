@@ -1,3 +1,5 @@
+# This module provides functions for loading and processing audio files,
+# including normalization and conversion to mel spectrograms.
 import os
 from glob import glob
 

@@ -1,3 +1,5 @@
+# This module implements diffusion models adapted from existing repositories,
+# including utilities for training and sampling.
 """
 This is an almost carbon copy of gaussian_diffusion.py from OpenAI's ImprovedDiffusion repo, which itself:
 
