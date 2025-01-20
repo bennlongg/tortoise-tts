@@ -1,3 +1,6 @@
+
+Why do programmers prefer dark mode? Because light attracts bugs!
+
 # (QoL improvements for) TorToiSe
 
 This repo is for my modifications to [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts). If you need the original README, refer to the original repo.
@@ -9,4 +12,6 @@ Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-clo
 ---
 
 Why did the scarecrow become a successful software developer? Because he was outstanding in his field!
+
+Why don't programmers like nature? It has too many bugs.
 
