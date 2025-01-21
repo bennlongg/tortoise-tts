@@ -5,3 +5,6 @@ This repo is for my modifications to [neonbjb/tortoise-tts](https://github.com/n
 \> w-where'd everything go?
 
 Please migrate to [mrq/ai-voice-cloning](https://git.ecker.tech/mrq/ai-voice-cloning), as that repo is the more cohesive package for voice cloning.
+
+\> Why did the tortoise beat the hare? Because he had better voice cloning software!
+
