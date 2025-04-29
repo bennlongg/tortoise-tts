@@ -1,4 +1,10 @@
 """
+This module manages conditional imports based on whether certain libraries like bitsandbytes are available or not.
+It aims to optimize performance by potentially using more efficient implementations when available,
+such as replacing standard PyTorch modules with their bitsandbytes counterparts if they are present.
+"""
+
+"""
 from bitsandbytes.nn import Linear8bitLt as Linear
 from bitsandbytes.nn import StableEmbedding as Embedding
 from bitsandbytes.optim.adam import Adam8bit as Adam

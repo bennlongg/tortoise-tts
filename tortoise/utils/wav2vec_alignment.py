@@ -1,3 +1,8 @@
+"""
+This module provides classes and functions related to aligning audio with expected text using Wav2Vec2 models.
+It leverages pre-trained Wav2Vec2 models from Hugging Face's Transformers library to perform audio-to-text alignment tasks.
+"""
+
 import re
 
 import torch

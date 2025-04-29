@@ -1,3 +1,9 @@
+"""
+This module provides utilities for managing device settings and memory usage in PyTorch.
+It includes functions to determine available hardware acceleration (CUDA or DirectML), set device names,
+manage memory usage, and retrieve device-specific information such as VRAM and batch size.
+"""
+
 import torch
 import psutil
 import importlib

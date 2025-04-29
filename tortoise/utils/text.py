@@ -1,3 +1,8 @@
+"""
+This module provides functions for text processing tasks such as splitting text into chunks while preserving sentence boundaries.
+It includes utilities for normalizing text by removing redundant whitespace and converting non-ASCII quotes to ASCII.
+"""
+
 import re
 
 

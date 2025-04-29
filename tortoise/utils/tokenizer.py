@@ -1,3 +1,9 @@
+"""
+This module provides classes and functions related to tokenization and text normalization using BPE (Byte Pair Encoding).
+It includes utilities for expanding abbreviations and numbers in English text,
+as well as converting text into tokenized sequences suitable for machine learning models.
+"""
+
 import os
 import re
 import json
